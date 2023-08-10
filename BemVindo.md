@@ -1,9 +1,8 @@
 ### Eae! Eu sou o jhonatan William
 
-- 🔭 Hoje trabalho com back-end
-- 🌱 Estudando Java e Phyton
+- 🔭 Hoje trabalho com sistema SAP B1
+- 🌱 Estudando C#, SQL, HTML e Phyton
 - 📫 Contate-me no e-mail: williamjhonatanxd@gmail.com
-- 😄 Pronouns: ele/dele
 
 <div>
 <a href="https://github.com/JhonatanWill1612">
